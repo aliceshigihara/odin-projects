@@ -1,13 +1,14 @@
    #index body {
-        background-color: rgb(254, 250, 191);
-        margin: 20px;
-        padding: 20px;
-        border: 5px solid rgb(255, 0, 0);
+        height: 100vh;
+        margin: 50px;
+        background-image: linear-gradient(to bottom,rgb(255, 238, 228) 0%, rgb(255, 189, 45) 80%, rgb(240, 140, 0) 100%);
+        border: 5px solid rgb(255, 119, 0);
         border-radius: 15px;
     }
    #index h1 {
-        color: rgb(255, 51, 0);
+        color: rgb(255, 102, 0);
         text-align: center;
+        font-size: 50px;
         font-family:'Lucida Handwriting', cursive;
     }
     #index a {
@@ -19,12 +20,19 @@
     #index ul {
         font-size: 20px;
     }
-    #index li {
-        margin-bottom: 10px;
-        font-family: Arial, sans-serif;
+    #index button {
+        display: block;
+        margin: 20px auto;
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: rgb(255, 165, 0);
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
     }
-    #index li:hover {
-        background-color: rgb(232, 255, 80);
+    #index button:hover {
+        background-color: rgb(231, 85, 7);
     }
 
     #ramen body {
@@ -87,7 +95,7 @@
         cursor: pointer;
     }
     #ramen button:hover {
-        background-color: rgb(78, 91, 77);
+        background-color: rgb(244, 82, 8);
     }
 
 
@@ -151,7 +159,7 @@
         cursor: pointer;
     }
     #lasagna button:hover {
-        background-color: rgb(78, 91, 77);
+        background-color: rgb(252, 84, 0);
     }
 
 
@@ -216,5 +224,5 @@
         cursor: pointer;
     }
     #ice-cream button:hover {
-        background-color: rgb(78, 91, 77);
+        background-color: rgb(255, 94, 0);
     }
