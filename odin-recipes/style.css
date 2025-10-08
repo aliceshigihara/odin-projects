@@ -1,0 +1,228 @@
+   #index body {
+        height: 100vh;
+        margin: 50px;
+        background-image: linear-gradient(to bottom,rgb(255, 238, 228) 0%, rgb(255, 189, 45) 80%, rgb(240, 140, 0) 100%);
+        border: 5px solid rgb(255, 119, 0);
+        border-radius: 15px;
+    }
+   #index h1 {
+        color: rgb(255, 102, 0);
+        text-align: center;
+        font-size: 50px;
+        font-family:'Lucida Handwriting', cursive;
+    }
+    #index a {
+        color: rgb(255, 0, 0);
+        text-decoration: none;
+        font-weight: bold;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    #index ul {
+        font-size: 20px;
+    }
+    #index button {
+        display: block;
+        margin: 20px auto;
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: rgb(255, 165, 0);
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    #index button:hover {
+        background-color: rgb(231, 85, 7);
+    }
+
+    #ramen body {
+        background-color: rgb(255, 248, 220);
+        margin: 20px;
+        padding: 20px;
+        border: 5px solid rgb(255, 165, 0);
+        border-radius: 15px;
+    }
+
+    #ramen h1 {
+        color: rgb(255, 69, 0);
+        text-align: center;
+        font-family: 'Lucida Handwriting', cursive;
+    }
+    #ramen h3 {
+        color: rgb(255, 140, 0);
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    #ramen img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        border-radius: 15px;
+    }
+    #ramen p {
+        color: rgb(198, 80, 37);
+        text-decoration: none;
+        text-align: center;
+        font-weight: bold;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    #ramen ul {
+        font-size: 18px;
+        padding: 0;
+        list-style-position: inside;
+    }
+    #ramen li {
+        margin-bottom: 10px;
+        list-style-position: inside;
+        text-align: center;
+        font-family: Arial, sans-serif;
+        padding: 5px;
+        font-size: 15px;
+    }
+
+    #ramen button {
+        display: block;
+        margin: 20px auto;
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: rgb(255, 165, 0);
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    #ramen button:hover {
+        background-color: rgb(244, 82, 8);
+    }
+
+
+    #lasagna body {
+        background-color: rgb(255, 248, 220);
+        margin: 20px;
+        padding: 20px;
+        border: 5px solid rgb(255, 165, 0);
+        border-radius: 15px;
+    }
+
+    #lasagna h1 {
+        color: rgb(255, 69, 0);
+        text-align: center;
+        font-family: 'Lucida Handwriting', cursive;
+    }
+    #lasagna h3 {
+        color: rgb(255, 140, 0);
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    #lasagna img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        border-radius: 15px;
+    }
+    #lasagna p {
+        color: rgb(198, 80, 37);
+        text-decoration: none;
+        text-align: center;
+        font-weight: bold;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    #lasagna ul {
+        font-size: 18px;
+        padding: 0;
+        list-style-position: inside;
+    }
+    #lasagna li {
+        margin-bottom: 10px;
+        list-style-position: inside;
+        text-align: center;
+        font-family: Arial, sans-serif;
+        padding: 5px;
+        font-size: 15px;
+    }
+
+    #lasagna button {
+        display: block;
+        margin: 20px auto;
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: rgb(255, 165, 0);
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    #lasagna button:hover {
+        background-color: rgb(252, 84, 0);
+    }
+
+
+
+    #ice-cream body {
+        background-color: rgb(255, 248, 220);
+        margin: 20px;
+        padding: 20px;
+        border: 5px solid rgb(255, 165, 0);
+        border-radius: 15px;
+    }
+
+    #ice-cream h1 {
+        color: rgb(255, 69, 0);
+        text-align: center;
+        font-family: 'Lucida Handwriting', cursive;
+    }
+    #ice-cream h3 {
+        color: rgb(255, 140, 0);
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    #ice-cream img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        border-radius: 15px;
+    }
+    #ice-cream p {
+        color: rgb(198, 80, 37);
+        text-decoration: none;
+        text-align: center;
+        font-weight: bold;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    #ice-cream ul {
+        font-size: 18px;
+        padding: 0;
+        list-style-position: inside;
+    }
+    #ice-cream li {
+        margin-bottom: 10px;
+        list-style-position: inside;
+        text-align: center;
+        font-family: Arial, sans-serif;
+        padding: 5px;
+        font-size: 15px;
+    }
+
+    #ice-cream button {
+        display: block;
+        margin: 20px auto;
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: rgb(255, 165, 0);
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    #ice-cream button:hover {
+        background-color: rgb(255, 94, 0);
+    }
